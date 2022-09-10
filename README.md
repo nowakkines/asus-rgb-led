@@ -16,7 +16,7 @@ First you have to choose the brightness! After that, choose the mode. Click on t
 If your keyboard remains dark, its brightness might have defaulted to 0. Trynna run `LEVEL 1/2/3`(Brigthness)
 
 If your keyboard does not respond to rogauracore, it may help to send an initialisation message to the keyboard trynna to `initialize_keyboard`<br>
-<img src='https://i.ibb.co/1bnDYWG/Screenshot-from-2022-09-10-22-16-01.png](https://i.ibb.co/yh7K4H3/Screenshot-from-2022-09-10-22-31-14.png'>
+<img src='https://i.ibb.co/yh7K4H3/Screenshot-from-2022-09-10-22-31-14.png'>
 
 Or trynna do this:
 ```
