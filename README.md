@@ -32,4 +32,4 @@ heigth='120'><br>
 Sometimes it may require a password from `sudo` to start, enter.
 
 ## Gratitude
-I really thank wroberts for the program, as well as the rest of the guys who took part in it.
+I really thank @wroberts for the program, as well as the rest of the guys who took part in it.
